@@ -5,6 +5,14 @@ use Illuminate\Database\Eloquent\Model;
 
 class Rating extends Model
 {
+    
+    /**
+     * The table name for this model
+     *
+     * @var string
+     */
+    protected $table = 'user_ratings';
+    
     /**
      * The attributes that are mass assignable.
      *
