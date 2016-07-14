@@ -5,6 +5,8 @@
 
 [![Total Downloads](https://poser.pugx.org/willvincent/laravel-rateable/downloads.svg)](https://packagist.org/packages/willvincent/laravel-rateable) [![Monthly Downloads](https://poser.pugx.org/willvincent/laravel-rateable/d/monthly.png)](https://packagist.org/packages/willvincent/laravel-rateable) [![Daily Downloads](https://poser.pugx.org/willvincent/laravel-rateable/d/daily.png)](https://packagist.org/packages/willvincent/laravel-rateable)
 
+FOR PERSONAL USE. DON'T USE THIS FORK. USE: https://github.com/willvincent/laravel-rateable
+
 Provides a trait to allow rating of multiple models within your app for Laravel 5.
 
 Ratings could be fivestar style, or simple +1/-1 style.
